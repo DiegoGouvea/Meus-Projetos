@@ -16,8 +16,8 @@ namespace JogoDaMemoria
 
         int cliques = 1;
         jogo j; 
-        string caminho = "C:\\Users\\diego\\Desktop\\JogoDaMemoria\\img\\";
-        arquivo arquivo1 = new arquivo("C:\\Users\\diego\\Desktop\\JogoDaMemoria\\jogada.txt");
+        string caminho = "C:\\Users\\diego\\Desktop\\JogoDaMemoria\\img\\"; //necessário modificar o caminho para execução em outras maquinas
+        arquivo arquivo1 = new arquivo("C:\\Users\\diego\\Desktop\\JogoDaMemoria\\jogada.txt");//necessário modificar o caminho para execução em outras maquinas
         string dados = "";
         string[] verificaDupla = new string[] {"",""}; 
         Button[] btns;
