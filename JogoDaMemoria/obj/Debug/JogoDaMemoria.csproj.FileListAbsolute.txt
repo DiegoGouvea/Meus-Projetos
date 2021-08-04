@@ -1,0 +1,20 @@
+C:\Users\diego\Desktop\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\diego\Desktop\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\diego\Desktop\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\diego\Desktop\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\diego\Desktop\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\diego\Desktop\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+C:\Users\diego\Desktop\JogoDaMemoria\obj\Debug\JogoDaMemoria.FrmPrincipal.resources
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\obj\Debug\JogoDaMemoria.FrmPrincipal.resources
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\diego\Desktop\Nova pasta\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
